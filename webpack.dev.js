@@ -16,7 +16,7 @@ module.exports = merge(common, {
     hot: true,
     open: true,
     host: process.env.HOST,
-    port: process.env.CLIENT_PORT
+    port: process.env.PORT
   },
   module: {
     rules: [
