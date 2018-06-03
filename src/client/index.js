@@ -1,4 +1,4 @@
 // import pixi from 'pixi.js';
-import './index.css';
+import './style.css';
 
 // pixify here!
