@@ -44,7 +44,6 @@ module.exports = {
     new HtmlPlugin({
       template: HtmlTemplate,
       title: 'Pixiplate',
-      appMountId: 'root',
       inject: false,
       mobile: true
     })
